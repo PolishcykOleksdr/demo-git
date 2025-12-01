@@ -5,10 +5,4 @@ package com.oleksdr.demogit.demogit;
  * date: 01.12.2025
  */
 public class LocationService {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-        System.out.println("Hello World");
-        System.out.println("Hello World");
-        System.out.println("Hello World");
-    }
 }
